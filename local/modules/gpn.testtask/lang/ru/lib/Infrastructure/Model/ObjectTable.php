@@ -1,0 +1,5 @@
+<?php
+$MESS['GPN_MODEL_TESTTASK_DATE_CREATE'] = 'Дата создания';
+$MESS['GPN_MODEL_TESTTASK_NAME'] = 'Наименование';
+$MESS['GPN_MODEL_TESTTASK_ADDRESS'] = 'Адрес';
+$MESS['GPN_MODEL_TESTTASK_COMMENT'] = 'Комментарий';

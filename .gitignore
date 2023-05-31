@@ -1,0 +1,8 @@
+/bitrix
+/images
+/upload
+
+.access.php
+.htaccess
+.section.php
+log.txt
